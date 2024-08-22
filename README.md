@@ -1,0 +1,1 @@
+Welcome to the Data Analysis repository! This repository is a collection of various data analysis projects, showcasing different techniques and methodologies to extract insights from data. The projects range from exploratory data analysis (EDA) to advanced statistical modeling and visualization.
